@@ -2,3 +2,7 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.image__container img {
+  max-width: 300px;
+}
