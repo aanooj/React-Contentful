@@ -1,0 +1,1 @@
+**React Contentful test application**
