@@ -1,8 +1,7 @@
 const contentful = require("contentful");
 const client = contentful.createClient({
-  space: "kfgj374ccsy2",
-  accessToken:
-    "7f3b9d4d5587ac6057284dba5706ecefc294f82da91f8f9cc46d17121210ff71",
+  space: "a16f55ul0o84",
+  accessToken: "z2Lx6amXaDFPqR_PF4rhI5O-gwqHYxQzPkEDJtcDHq0",
   host: "preview.contentful.com"
 });
 

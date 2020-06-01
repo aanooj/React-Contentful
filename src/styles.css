@@ -1,8 +1,29 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  font-size: 16px;
 }
 
-.image__container img {
-  max-width: 300px;
+.image-gallery {
+  display: flex;
+}
+
+.image-card {
+  border: 1px solid gray;
+  margin: 10px;
+  padding: 10px;
+  min-width: 200px;
+}
+
+.image-caption {
+  color: gray;
+  font-size: 0.75em;
+}
+
+.image-credit {
+  font-size: 0.5em;
+}
+
+.image-container img {
+  width: 100%;
 }
